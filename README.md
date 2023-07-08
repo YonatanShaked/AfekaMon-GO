@@ -1,6 +1,8 @@
 # AfekaMon-GO
 **AfekaMon-GO an AR AfekaMon catching game powered by ARCore.**
 **Made for Afeka College of Engineering Android course 23B11345**
+Example Video: 
+[https://drive.google.com/file/d/1JYYn9fw9jzYB174xeBzTxXpqGhJPX7_k/view?usp=sharing](https://drive.google.com/file/d/1A1uE04ORx1LNjPMStvx65arld1hFYtLQ/view?usp=sharing)
 
 ## Description
 - Catch AfekaMons in an AR envirument.
