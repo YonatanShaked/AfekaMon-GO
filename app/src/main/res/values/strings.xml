@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AfekaMon-GO</string>
+    <string name="main_menu_msg">AfekaMon GO</string>
+    <string name="trainer_name_str">Trainer</string>
+    <string name="trainer_caught_str">Caught: </string>
+    <string name="toast_msg">Crash!</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="light">Catch AfekaMon</string>
+    <string name="not_in_the_top">Not in the top</string>
+    <string name="top_ten">Trainer stats</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="rating">Rating:</string>
+    <string name="score">Score:</string>
+    <string name="distance">Distance:</string>
+    <string name="gameoverBundle">gameover</string>
+    <string name="bundle">bundle</string>
+    <string name="_0">0</string>
+    <string name="_0_m">0 m</string>
+    <string name="textview1">TextView1</string>
+    <string name="textview2">TextView2</string>
+    <string name="textview3">TextView3</string>
+    <string translatable="false" name="depth_use_explanation">When Depth is enabled on supported devices, virtual objects adapt to the environment by blending in with the real world.</string>
+    <string translatable="false" name="button_text_enable_depth">Enable</string>
+    <string translatable="false" name="button_text_disable_depth">Disable</string>
+    <string translatable="false" name="options_title_with_depth">Your device supports depth</string>
+    <string translatable="false" name="options_title_without_depth">Your device does not support depth</string>
+    <string translatable="false" name="done">Done</string>
+    <string-array translatable="false" name="depth_options_array">
+        <item>Enable depth</item>
+        <item>Show depth map</item>
+    </string-array>
+    <string translatable="false" name="options_title_instant_placement">Instant Placement options</string>
+    <string-array translatable="false" name="instant_placement_options_array">
+        <item>Enable Instant Placement</item>
+    </string-array>
+</resources>

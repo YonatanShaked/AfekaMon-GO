@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "657297741221",
+    "firebase_url": "https://afekamon-go-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "afekamon-go",
+    "storage_bucket": "afekamon-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657297741221:android:acb7bb1b12336a3d02c44c",
+        "android_client_info": {
+          "package_name": "com.example.a23b_11345b_l10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657297741221-ed6fdaqavv2u2tqcp52q0i9972ep51g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZGDJUd0JfG7gURQz_0rSn1tMo5PqmM8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657297741221-ed6fdaqavv2u2tqcp52q0i9972ep51g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657297741221:android:25ae931db92d9b8602c44c",
+        "android_client_info": {
+          "package_name": "com.example.homework1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657297741221-ed6fdaqavv2u2tqcp52q0i9972ep51g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZGDJUd0JfG7gURQz_0rSn1tMo5PqmM8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657297741221-ed6fdaqavv2u2tqcp52q0i9972ep51g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
