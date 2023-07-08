@@ -100,7 +100,7 @@ public class GameMenuActivity extends AppCompatActivity implements Constants {
     private void openTopTenActivity(Activity activity) {
         mediaPlayer.stop();
         mediaPlayer.release();
-        Intent myIntent = new Intent(activity, TopTenActivity.class);
+        Intent myIntent = new Intent(activity, TrainerActivity.class);
         myIntent.putExtra("trainer", trainerName);
         startActivity(myIntent);
     }

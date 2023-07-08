@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@color/white"
     android:orientation="vertical"
-    tools:context=".activities.TopTenActivity">
+    tools:context=".activities.TrainerActivity">
 
     <FrameLayout
         android:id="@+id/topTen_LAY_list"

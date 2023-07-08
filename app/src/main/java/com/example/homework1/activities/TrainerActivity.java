@@ -10,7 +10,7 @@ import com.example.homework1.R;
 import com.example.homework1.fragments.FragmentMap;
 import com.example.homework1.fragments.FragmentTrainer;
 
-public class TopTenActivity extends AppCompatActivity {
+public class TrainerActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

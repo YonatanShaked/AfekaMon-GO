@@ -47,7 +47,7 @@
             android:name=".activities.GameMenuActivity"
             android:exported="false" />
         <activity
-            android:name=".activities.TopTenActivity"
+            android:name=".activities.TrainerActivity"
             android:exported="false"/>
         <activity
             android:name=".activities.ArActivity"
