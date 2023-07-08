@@ -6,5 +6,5 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "Car Game 2"
+rootProject.name = "AfekaMon GO"
 include ':app'

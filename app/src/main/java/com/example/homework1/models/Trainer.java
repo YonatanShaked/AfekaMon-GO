@@ -1,5 +1,7 @@
 package com.example.homework1.models;
 
+import androidx.annotation.NonNull;
+
 public class Trainer {
     private String name = "";
     private int afekaMons;
@@ -25,6 +27,7 @@ public class Trainer {
         return this;
     }
 
+    @NonNull
     @Override
     public String toString() {
         return "Trainer{" +
