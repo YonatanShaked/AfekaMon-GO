@@ -22,3 +22,17 @@
 -  Tap once to place the AfekaMon on the surface
 -  Tap again to throw AfekaBalls
 -  Each ball has a 1/5 change to catch the AfekaMon
+
+## Menu screens
+<img src = "https://github.com/YonatanShaked/AfekaMon-GO/blob/main/Screenshots/Screenshot_Splash.jpg?raw=true" width ="208" /> <img src = "https://github.com/YonatanShaked/AfekaMon-GO/blob/main/Screenshots/Screenshot_menu.jpg?raw=true" width ="208" /><img src = "https://github.com/YonatanShaked/AfekaMon-GO/blob/main/Screenshots/Screenshot_Trainer.jpg?raw=true" width ="208" />
+
+> - Splash screen
+>- Menu screen
+>- Trainer screen
+
+## Game view
+<img src = "https://github.com/YonatanShaked/AfekaMon-GO/blob/main/Screenshots/Screenshot_Surface.jpg?raw=true" width ="208" /> <img src = "https://github.com/YonatanShaked/AfekaMon-GO/blob/main/Screenshots/Screenshot_AfekaMon.jpg?raw=true" width ="208" /><img src = "https://github.com/YonatanShaked/AfekaMon-GO/blob/main/Screenshots/Screenshot_AfekaBall.jpg?raw=true" width ="208" />
+
+> - Surface scan view
+>- AfekaMon view
+>- AfekaMon + AfekaBall view
